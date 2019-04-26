@@ -20,6 +20,8 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link rel="stylesheet" href="{{ URL::asset('css/login.css')}}" rel="stylesheet">
+    <link href="{{ asset('css/register.css') }}" rel="stylesheet">
+
 </head>
 <body>
     <div id="app">
