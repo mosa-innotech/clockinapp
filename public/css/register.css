@@ -1,0 +1,21 @@
+#cardcss {
+    background-color: lightblue;
+}
+#namecss {
+    color: pink;
+    padding: 5px;
+    border-style: dashed;
+    border-radius: 5px;
+}
+#emailcss {
+    padding: 5px;
+    color: green;
+    border-style: dotted;
+    border-radius: 5px;
+}
+#passwordcss {
+    padding: 5px;
+    color: red;
+    border-style: groove;
+    border-radius: 5px;
+}
