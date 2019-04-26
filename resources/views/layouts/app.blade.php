@@ -15,10 +15,11 @@
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="{{ URL::asset('css/login.css')}}" rel="stylesheet">
+
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
+    <link rel="stylesheet" href="{{ URL::asset('css/login.css')}}" rel="stylesheet">
 </head>
 <body>
     <div id="app">
